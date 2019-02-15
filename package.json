@@ -1,0 +1,22 @@
+{
+  "name": "iut-encrypt",
+  "version": "1.0.0",
+  "description": "module encryted password",
+  "main": "encrypt",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamienBoussardon/iut-encrypt.git"
+  },
+  "author": "@DamienBoussardon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamienBoussardon/iut-encrypt/issues"
+  },
+  "homepage": "https://github.com/DamienBoussardon/iut-encrypt#readme",
+  "dependencies": {
+    "sha1": "^1.1.1"
+  }
+}
